@@ -12,9 +12,9 @@ function Shop(product) {
     
       <Breadcrum product={product} />
       <Hero />
-      <Popular />
-      <Offer />
       <NewCollections />
+      <Offer />
+      <Popular />
       <NewsLetter />
     </div>
   );
